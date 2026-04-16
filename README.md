@@ -1,7 +1,15 @@
-<h1 style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://res.cloudinary.com/dezwll9jv/image/upload/v1776359812/motion_comfort_app_icon_pcekfg.png" width="36"/>
-  MotionComfort
-</h1>
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:0; vertical-align:middle;">
+      <img src="https://res.cloudinary.com/dezwll9jv/image/upload/v1776359812/motion_comfort_app_icon_pcekfg.png"
+           width="58"
+           style="border-radius:12px;">
+    </td>
+    <td style="border:none; padding-left:10px; vertical-align:middle;">
+      <h1 style="margin:0;">MotionComfort</h1>
+    </td>
+  </tr>
+</table>
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Language](https://img.shields.io/badge/Kotlin-100%25-blue)
