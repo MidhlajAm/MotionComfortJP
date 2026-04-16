@@ -1,15 +1,10 @@
-<table style="border:none; border-collapse:collapse;">
-  <tr>
-    <td style="border:none; padding:0; vertical-align:middle;">
-      <img src="https://res.cloudinary.com/dezwll9jv/image/upload/v1776359812/motion_comfort_app_icon_pcekfg.png"
-           width="58"
-           style="border-radius:12px;">
-    </td>
-    <td style="border:none; padding-left:10px; vertical-align:middle;">
-      <h1 style="margin:0;">MotionComfort</h1>
-    </td>
-  </tr>
-</table>
+<h1>
+  <img src="https://res.cloudinary.com/dezwll9jv/image/upload/v1776359812/motion_comfort_app_icon_pcekfg.png"
+       width="42"
+       align="left"
+       style="margin-right: 10px; border-radius: 12px;" />
+  MotionComfort
+</h1>
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Language](https://img.shields.io/badge/Kotlin-100%25-blue)
