@@ -43,6 +43,18 @@ It uses real-time sensor data to generate synchronized visual cues (like floatin
 
 ---
 
+## 📦 Download APK
+
+You can download and try the app directly:
+
+<p>
+  <a href="https://drive.google.com/file/d/1adiZhjVbYn2wG9zYeG3npH0uK62LU80d/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android"/>
+  </a>
+</p>
+
+---
+
 ## 🧠 How It Works
 
 MotionComfort reduces motion sickness by addressing **sensory conflict** between:
