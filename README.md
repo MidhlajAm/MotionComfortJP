@@ -92,7 +92,7 @@ By synchronizing visual cues with real-world motion using the device's accelerom
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/motioncomfort.git
+git clone https://github.com/MidhlajAm/MotionComfortJP.git
 ```
 
 2. Open in Android Studio
